@@ -1,0 +1,50 @@
+body {
+ background-color: linen;
+  color: black;
+   font-family: 'Lora', serif;
+    font-size:17.5px; 
+
+}
+
+h1 {
+	 font-family: 'Merriweather', serif;
+	  font-weight: 25px;
+	   color: black;
+	    text-transform: uppercase;
+	     font-style: oblique;
+}
+
+h2 {
+	font-weight: 40px;
+	 letter-spacing: 0.3px;
+	  font-size: 16px;
+	   font-family: 'Merriweather', serif;
+	    color: #949494;
+	    text-transform: uppercase;
+}
+
+h3 {
+	font-size: 16px;
+	 color: #696969;
+}
+
+h4 {
+
+	background-color: black;
+}
+
+
+a {
+	color: black;
+	 font-size: 17px;
+	  font-style: oblique;
+}
+
+a:hover {
+	color: silver;
+}
+
+
+
+
+
